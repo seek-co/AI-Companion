@@ -18,7 +18,6 @@ Features:
 - PlanetScale MySQL DB
 - [Hotpot](https://hotpot.ai/) AI Image for Companion
 
-Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac)
 
 ### Prerequisites
 
@@ -27,7 +26,7 @@ Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac)
 ### Cloning the Repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/ai-companion.git
+git clone https://github.com/seek-co/AI-Companion.git
 ```
 
 ### Install Packages
